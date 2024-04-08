@@ -1,0 +1,14 @@
+# dockerdev-environment
+
+
+
+
+**🐳 Simplified way to setting & using Docker for local development environment**
+
+- `git clone https://github.com/ecampuslearning/dockerdev-environment
+`
+- `docker-compose up`
+
+Details about each service and how to run them is present in the induvidual services directories.
+
+Hope this helps someone 🎉🌮
