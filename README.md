@@ -1,6 +1,6 @@
-# container-development-environment
+# Docker development-environment
 
-This repo contains the source  code for the webinar with the elects @ecampuslearning:
+This repo contains the source  code for the g:
 
 **🐳 Simplified way to setting & using Docker for local development environment**
 
